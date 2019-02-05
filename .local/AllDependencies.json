@@ -1006,9 +1006,9 @@
     "restore": {
       "projectUniqueName": "Bank_automation",
       "projectName": "Bank_automation",
-      "projectPath": "C:\\Users\\Sanjay Babu\\Downloads\\Bank_automation\\Bank_automation\\.local",
+      "projectPath": "F:\\UiPath Project\\Bank_automation\\Bank_automation\\.local",
       "packagesPath": "C:\\Users\\Sanjay Babu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sanjay Babu\\Downloads\\Bank_automation\\Bank_automation\\.local"
+      "outputPath": "F:\\UiPath Project\\Bank_automation\\Bank_automation\\.local"
     },
     "frameworks": {
       "net461": {
