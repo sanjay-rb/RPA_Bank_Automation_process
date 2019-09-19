@@ -9,11 +9,3 @@
  * The mentioned service will be redirected to the specific Bank Employee.
  * For Loan Section following properties are verified previous transactions,credit points and based on the property value the loan is sanctioned.
  * Focusing on both the Customer and Employers satisfaction.
-              
-              
-              
-NAME   | PHONE NO | EMAILID | COLLEGE | DEPARTMENT
------- | -------- | ------- | ------- | ----------      
-Sanjay R B | 9442212906 | sanjaybabu618@gmail.com | KGISL Insitute of technology | Computer Science and Engineering
-Prathvik S | 9843547551 | prathviksampath@gmail.com | KGISL Insitute of technology | Computer Science and Engineering
-nivetha T | 7550330353 | nivethaneethu748@gmail.com | KGISL Insitute of technology | Computer Science and Engineering
